@@ -9,3 +9,4 @@ it has the following features-
 
 initialize a node project 
 put a package.json
+"# SimpleTodo" 
